@@ -1,5 +1,12 @@
 # examples
 
+## 0.0.16
+
+### Patch Changes
+
+- Updated dependencies [ee20c44]
+  - @llamaindex/workflow@0.0.6
+
 ## 0.0.15
 
 ### Patch Changes
