@@ -1,5 +1,13 @@
 # @llamaindex/unit-test
 
+## 0.0.23
+
+### Patch Changes
+
+- ee20c44: feat(workflow): allow send event with no output
+- Updated dependencies [ee20c44]
+  - @llamaindex/workflow@0.0.6
+
 ## 0.0.22
 
 ### Patch Changes
